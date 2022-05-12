@@ -1,6 +1,14 @@
 # Machine &amp; Deep Learning
 ---
 
+3 grands métiers 
+ 
+- data enginer : collecte et stockage des données
+- data science : applicattion des algo sur les données/traitement des données
+- data visualisation : visualisation/hiérachisation des données 
+- data analyst : analyse des données traitées.
+
+
 Essais perso et premier codes de ML
 ## Tutos suivis :
  - [Chaîne Machine Learnia](https://www.youtube.com/c/MachineLearnia)
